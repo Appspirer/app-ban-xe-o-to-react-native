@@ -1,0 +1,5 @@
+export {default as Boarding} from './Boarding'
+export {default as DashBoard} from './DashBoard'
+export {default as CustomDrawer} from './CustomDrawer'
+export {default as History} from './History'
+export {default as Details} from './Details'
